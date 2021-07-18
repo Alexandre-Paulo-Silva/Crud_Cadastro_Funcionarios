@@ -16,7 +16,7 @@
 ![Alterar](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/alterar.png)
 
 ## Listar
-![Listar](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/Lista.png)
+![Listar](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/listar.png)
 
 ## Detalhes
 ![Detalhes](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/detalhes.png)
