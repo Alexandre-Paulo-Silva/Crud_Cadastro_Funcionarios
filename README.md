@@ -9,8 +9,8 @@
 ## Acesso Rapido 
 ![Acesso Rapido](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/acesso%20rapido.png)
 
-## Acesso Rapido 
-![Acesso Rapido](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/acesso%20rapido.png)
+## Cadastrar
+![Cadastrar](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/cadastrar.png)
 
 ## Alterar
 ![Alterar](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/alterar.png)
