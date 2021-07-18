@@ -7,13 +7,13 @@
 ![tela de login](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/tela%20de%20login.png)
 
 ## Acesso Rapido 
-![tela de login](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/acesso%20rapido.png)
+![Acesso Rapido](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/acesso%20rapido.png)
 
 ## Acesso Rapido 
-![Acesso Rapido ](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/acesso%20rapido.png)
+![Acesso Rapido](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/acesso%20rapido.png)
 
-## Cadastrar
-![Cadastrar](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/cadastrar.png)
+## Alterar
+![Alterar](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/alterar.png)
 
 ## Listar
 ![Listar](https://github.com/Alexandre-Paulo-Silva/Crud_Cadastro_Funcionarios/blob/main/Lista.png)
